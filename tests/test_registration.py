@@ -1,3 +1,5 @@
+# тестирование процедуры регистрации пользователя
+
 from utils.config import Config
 import requests
 import json

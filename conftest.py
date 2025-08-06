@@ -1,3 +1,4 @@
+# фикстура подготовки данных пользователя
 
 import pytest
 from models.account import UserAccount
